@@ -5,6 +5,8 @@
 ##    mymatrixinverse <- cacheSolve(cm)
 ##
 ## mymatrixinverse is the inverse of mymatrix
+##
+## These functions were modeled after functions found here: https://www.coursera.org/learn/r-programming/peer/tNy8H/programming-assignment-2-lexical-scoping
 
 
 ## makeCacheMatrix creates a list containing a functions to
